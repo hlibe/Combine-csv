@@ -1,5 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# coding=utf-8
+# Copyright 2020 by HaoLi, The Hong Kong University.
+# All rights reserved.
+# This file is released under the "MIT License Agreement". Please see the LICENSE
+# file that should have been included as part of this package.
 """
 Created on Sun Nov 22 2020
 
